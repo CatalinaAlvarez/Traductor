@@ -68,6 +68,7 @@ public class Menu {
     * o salir del programa. Retorna un booleano para saber
     * si se continúa o no. */
     public Boolean mostrarMenuContinuar(){
+        System.out.println("____________________________________");
         System.out.println("\nPor favor seleccione una opción: ");
         System.out.println("\n1. Volver al menú anterior");
         System.out.println("2. Salir");
