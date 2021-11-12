@@ -1,0 +1,3 @@
+carro=car
+amarillo=yellow
+rojo=red
